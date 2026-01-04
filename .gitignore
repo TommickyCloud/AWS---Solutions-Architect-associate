@@ -1,0 +1,15 @@
+# AWS
+.aws/
+.env
+*.pem
+*.ppk
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Terraform (future)
+.terraform/
+*.tfstate
+*.tfstate.*
